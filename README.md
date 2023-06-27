@@ -6,7 +6,7 @@ Project aims to create Appetizer Project
 IOS Calculator (folder)
 |----readme.md
 |----index.html
-|----stye.css
+|----style.css
 |----app.js		
 ```
 ## Project-gif
